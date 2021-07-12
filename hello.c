@@ -2,6 +2,7 @@
 int main()
 {
     printf("testing github\n");
-    printf("testing github 2nd time\n");
+    printf("testing github \n");
+    printf("i am dum nightmare nightmare");
     return 0;
 }
