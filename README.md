@@ -9,7 +9,7 @@ C project based on TIC - TAC - TOE
 
 
 
-# This project is based on the game
+# This project is based on the game TIC-TAC-TOE
 
 
 ## Folder Structure
