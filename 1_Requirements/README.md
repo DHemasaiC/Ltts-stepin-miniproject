@@ -20,7 +20,7 @@
 * TIC-TAC-TOE mainly provides user with two specific inputs and shows the "x" and "o" placed in the game .
 * The primary practical use of a TIC-TAC-TOE two players seek in alternate turns to complete a row, a column, or a diagonal with either three O's or three X's drawn in the         spaces of a grid of nine squares; noughts and crosses.
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+![SWOT-Sample](https://github.com/DHemasaiC/Ltts-stepin-miniproject/blob/main/1_Requirements/SWOT.png)
 
 # 4W&#39;s and 1&#39;H
 
