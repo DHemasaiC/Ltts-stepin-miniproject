@@ -27,4 +27,4 @@ Folder             | Description
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`303456` | Hema Sai Reddy  | All Features    | No     | No   | 0    | *  
+`303456` | Hema Sai Reddy  | All Features    | No     | No   | 3    | 3  
