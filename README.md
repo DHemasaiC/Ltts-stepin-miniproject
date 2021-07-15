@@ -2,9 +2,7 @@
 
 C project based on TIC - TAC - TOE
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b2362f1d6f2a43a4a85c0b1ecf44f0ec)](https://app.codacy.com/gh/DHemasaiC/Ltts-stepin-miniproject?utm_source=github.com&utm_medium=referral&utm_content=DHemasaiC/Ltts-stepin-miniproject&utm_campaign=Badge_Grade_Settings) | 
-
-[![Code Inspector](https://www.code-inspector.com/project/24838/score/svg)]
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b2362f1d6f2a43a4a85c0b1ecf44f0ec)](https://app.codacy.com/gh/DHemasaiC/Ltts-stepin-miniproject?utm_source=github.com&utm_medium=referral&utm_content=DHemasaiC/Ltts-stepin-miniproject&utm_campaign=Badge_Grade_Settings) | ![Code Inspector](https://www.code-inspector.com/project/24838/score/svg)
 
 
 
