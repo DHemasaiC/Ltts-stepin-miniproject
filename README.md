@@ -19,7 +19,7 @@ Folder             | Description
 `2_Architecture`         | Documents specifying design details
 `3_Implementation` | All code and documentation
 `4_TestPlanAndOutput`      | Documents with test plans and procedures
-`5_ImagesAndVideos`| Screenshots,GIFs and other media files
+`5_Images`| Screenshots,GIFs and other media files
 
 ## Contributors List and Summary
 
